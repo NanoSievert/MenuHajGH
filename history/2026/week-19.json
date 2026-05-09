@@ -1,0 +1,132 @@
+{
+  "Monday": {
+    "Soep": {
+      "nl": "Groentebouillon (vegan)",
+      "en": "Vegetable broth (vegan)"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Kapsalon met toppings",
+      "en": "Kapsalon with toppings"
+    },
+    "Suggestie menu ": {
+      "nl": "Veggie kapsalon",
+      "en": "Veggie kapsalon"
+    },
+    "Snack": {
+      "nl": "Party snacks en frietjes",
+      "en": "Party snacks and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Caesar broodje met kip, parmezaanse kaas en rucola",
+      "en": "Caesar chicken sandwich with parmesan and arugula"
+    }
+  },
+  "Tuesday": {
+    "Soep": {
+      "nl": "Tomatensoep met balletjes",
+      "en": "Tomato soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Tikka Masala met rijst",
+      "en": "Tikka Masala and rice"
+    },
+    "Suggestie menu ": {
+      "nl": "Red Thai curry en rijst",
+      "en": "Red Thai curry and rice"
+    },
+    "Snack": {
+      "nl": "Sito stick en frietjes",
+      "en": "Sito stick and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje kebab",
+      "en": "Kebab in a bun"
+    }
+  },
+  "Wednesday": {
+    "Soep": {
+      "nl": "Champignonsoep (veggie)",
+      "en": "Mushroom soup (veggie)"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Pasta all' Amatriciana met spek en basilicum",
+      "en": "Pasta all' Amatriciana with bacon and basil"
+    },
+    "Suggestie menu ": {
+      "nl": "Pasta all' Amatriciana met pijnboompitten en basilicum",
+      "en": "Pasta all' Amatriciana with pine nuts and basil"
+    },
+    "Snack": {
+      "nl": "Bitterballen en  frietjes",
+      "en": "Bitter balls and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje gerookte zalm",
+      "en": "Smoked salmon sandwich"
+    }
+  },
+  "Thursday": {
+    "Soep": {
+      "nl": "Tomatengroentensoep",
+      "en": "Tomato vegetable soup"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Vidé met rauwkost en frietjes of aardappels",
+      "en": "Vol au vent with raw vegetables and French fries  or potatoes"
+    },
+    "Suggestie menu ": {
+      "nl": "Vidé (veggie) met rauwkost en aardappels",
+      "en": "Vol au vent (veggie) with raw vegetables and potatoes"
+    },
+    "Snack": {
+      "nl": "Curryworst en frietjes",
+      "en": "Curry roll and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Club eiersla",
+      "en": "Egg salad sandwich"
+    }
+  },
+  "Friday": {
+    "Soep": {
+      "nl": "Kippencrèmesoep met balletjes",
+      "en": "Chicken cream soup and meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Zalmburger met bearnaise en zuiderse puree",
+      "en": "Salmon burger, bearnaise sauce and  southern mashed potatoes"
+    },
+    "Suggestie menu ": {
+      "nl": "Avocadoburger met bearnaise en zuiderse puree",
+      "en": "Avocado burger, bearnaise sauce and  southern mashed potatoes"
+    },
+    "Snack": {
+      "nl": "Viandel en frietjes",
+      "en": "Viandel and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Zuiders broodje met proscuitto, mozarella en huisgemaakte tapenade",
+      "en": "Southern sandwich with proscuitto, mozarella and homemade tapenade"
+    }
+  }
+}
