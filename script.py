@@ -114,7 +114,7 @@ class WeekMenu:
 
                 embed.add_embed_field(
                     name=category,
-                    value=f"{dutch}\n\n*{english}*",
+                    value=f"{dutch}\n*{english}*",
                     inline=False
                 )
 
