@@ -1,0 +1,80 @@
+{
+  "Monday": {
+    "Soep": {
+      "nl": "Minestronesoep",
+      "en": "Minestrone soup"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Chili con carne met nacho's en toppings",
+      "en": "Chili con carne with nachos and toppings"
+    },
+    "Suggestie menu ": {
+      "nl": "Chili sin carne met nacho's en toppings",
+      "en": "Chili sin carne with nachos and toppings"
+    },
+    "Snack": {
+      "nl": "Sito stick en frietjes",
+      "en": "Sito stick and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje kebab",
+      "en": "Kebab in a bun"
+    }
+  },
+  "Tuesday": {
+    "Soep": {
+      "nl": "Groentesoep met balletjes",
+      "en": "Vegetable soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Stoofvlees met frietjes of aardappelen en rauwkost",
+      "en": "Beef stew with French fries or potatoes and vegetable salad"
+    },
+    "Suggestie menu ": {
+      "nl": "Cordon bleu met frietjes of aardappelen en rauwkost",
+      "en": "Stuffed schnitzel with French fries or potatoes and vegetable salad"
+    },
+    "Snack": {
+      "nl": "Kipnuggets en frietjes",
+      "en": "Chicken nuggets and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Italiaans broodje met kip, rode tapenade, rucola en parmezaanse kaas",
+      "en": "Italian sandwich with chicken, red tapenade, arugula and parmesano"
+    }
+  },
+  "Wednesday": {
+    "Soep": {
+      "nl": "Aspergesoep (veggie)",
+      "en": "Asparagus soup (veggie)"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Pasta pesto met spek",
+      "en": "Pasta pesto with bacon"
+    },
+    "Suggestie menu ": {
+      "nl": "Pasta pesto met pijnboompitten",
+      "en": "Pasta pesto with pine nuts"
+    },
+    "Snack": {
+      "nl": "Kaaskroketjes en frietjes ",
+      "en": "Cheese croquettes and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Martino",
+      "en": "Martino sandwich"
+    }
+  }
+}
