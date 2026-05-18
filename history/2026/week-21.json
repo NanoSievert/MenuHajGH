@@ -1,0 +1,120 @@
+{
+  "Monday": {
+    "Soep": {
+      "nl": "Tomatensoep met fijne groentjes",
+      "en": "Tomato soup with fine vegetables"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Balletjes in tomatensaus met puree of frietjes",
+      "en": "Meatballs in tomato sauce with mashed potatoes and French fries"
+    },
+    "Suggestie menu ": {
+      "nl": "Börek met feta",
+      "en": "Börek with feta"
+    },
+    "Snack": {
+      "nl": "Vleeskroket en frietjes",
+      "en": "Meat croquette and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Martino",
+      "en": "Martino sandwich"
+    }
+  },
+  "Tuesday": {
+    "Soep": {
+      "nl": "Kippencrèmesoep met balletjes",
+      "en": "Chicken cream soup and meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Spaghetti Bolognaise",
+      "en": "Spaghetti Bolognese"
+    },
+    "Suggestie menu ": {
+      "nl": "Ravioli met tomaat, courgette en feta",
+      "en": "Ravioli with tomatoes, zucchini and feta"
+    },
+    "Snack": {
+      "nl": "Mozzarellasticks en frietjes",
+      "en": "Mozarella sticks and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Caesar broodje met kip, parmezaanse kaas en rucola",
+      "en": "Caesar chicken sandwich with parmesan and arugula"
+    }
+  },
+  "Wednesday": {
+    "Soep": {
+      "nl": "Goulashsoep",
+      "en": "Goulash soup"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Babi pangang met nasi goreng",
+      "en": "Babi pangang and nasi goreng"
+    },
+    "Suggestie menu ": {
+      "nl": "Broccolinuggets met puree",
+      "en": "Broccoli nuggets with mashed potatoes"
+    },
+    "Snack": {
+      "nl": "Curryworst en frietjes",
+      "en": "Curry roll and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Club boerenomelet",
+      "en": "Farmer's omelet sandwich"
+    }
+  },
+  "Thursday": {
+    "Soep": {
+      "nl": "Wortelsoep (veggie)",
+      "en": "Carrot soup (veggie)"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Fish & chips met huisgemaakte tartaar en lettuce en puree",
+      "en": "Fish & chips with homemade tartare, lettuce and puree"
+    },
+    "Suggestie menu ": {
+      "nl": "Falafel met huisgemaakte tartaar en lettuce en puree",
+      "en": "Falafel with homemade tartare, lettuce and puree"
+    },
+    "Snack": {
+      "nl": "Viandel en frietjes",
+      "en": "Viandel and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Club kip met cocktail of currysaus",
+      "en": "Club chicken cocktail or curry sauce"
+    }
+  },
+  "Friday": {
+    "Soep": {
+      "nl": "Tomatensoep met balletjes",
+      "en": "Tomato soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Menu van de chef",
+      "en": "Chef's menu"
+    }
+  }
+}
