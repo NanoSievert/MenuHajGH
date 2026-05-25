@@ -1,0 +1,42 @@
+{
+  "Tuesday": {
+    "Soep": {
+      "nl": "Kippenbouillon met balletjes",
+      "en": "Chicken broth with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    }
+  },
+  "Wednesday": {
+    "Soep": {
+      "nl": "Ajuinsoep (veggie)",
+      "en": "Onion soup (veggie)"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    }
+  },
+  "Thursday": {
+    "Soep": {
+      "nl": "Tomatensoep met balletjes",
+      "en": "Tomato soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    }
+  },
+  "Friday": {
+    "Soep": {
+      "nl": "Preisoep",
+      "en": "Leek soup"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    }
+  }
+}
