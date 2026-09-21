@@ -1,0 +1,132 @@
+{
+  "Monday": {
+    "Soep": {
+      "nl": "Tomatensoep met balletjes",
+      "en": null
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Rundsstoofvlees met frietjes of aardappelen en rauwkost",
+      "en": "Beef stew with French fries or potatoes and vegetable salad"
+    },
+    "Suggestie menu ": {
+      "nl": "Ravioli met tomaat, courgette en feta",
+      "en": "Ravioli with tomatoes, zucchini and feta"
+    },
+    "Snack": {
+      "nl": "Kip crusty en frietjes",
+      "en": "Crusty chicken bites and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Italiaans broodje met kip, rode tapenade en parmezaanse kaas",
+      "en": "Italian sandwich with chicken, red tapenade, arugula and parmesano"
+    }
+  },
+  "Tuesday": {
+    "Soep": {
+      "nl": "Preisoep (veggie)",
+      "en": "Leek soup (veggie)"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Spaghetti Bolognaise",
+      "en": "Spaghetti Bolognese"
+    },
+    "Suggestie menu ": {
+      "nl": "Groentballetjes met gebakken rijst, groentjes en labneh (yoghurt)",
+      "en": "Vegetable balls with rice, vegetables and labneh (yoghurt)"
+    },
+    "Snack": {
+      "nl": "Kaaskroketten en frietjes",
+      "en": "Cheese croquettes and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje gerookte zalm en heks'nkaas",
+      "en": "Smoked salmon sandwich and heks'nkaas"
+    }
+  },
+  "Wednesday": {
+    "Soep": {
+      "nl": "Goulashsoep",
+      "en": "Goulash soup"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Kipsaté met kruidige taboulé, tzatziki en naan",
+      "en": "Chicken satay with spicy tabouleh, tzatziki and naan"
+    },
+    "Suggestie menu ": {
+      "nl": "Noedels, wokgroentjes en zoetzure saus",
+      "en": "Noodles, wok vegetables and sweet/ sour sauce"
+    },
+    "Snack": {
+      "nl": "Mexicano en frietjes",
+      "en": "Mexicano and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Midden-Oosters broodje met courgette en curry hummus",
+      "en": "Mid-east sandwich with zucchini and curry hummus"
+    }
+  },
+  "Thursday": {
+    "Soep": {
+      "nl": "Tomatensoep met fijne groentjes",
+      "en": "Tomato soup with fine vegetables"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Chili con carne met nacho's en toppings",
+      "en": "Chili con carne with nachos and toppings"
+    },
+    "Suggestie menu ": {
+      "nl": "Vidé (veggie) met rauwkost en frietjes",
+      "en": "Vol au vent (veggie) with raw vegetables and French fries"
+    },
+    "Snack": {
+      "nl": "Sitostick en frietjes",
+      "en": "Sito stick and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje kebab",
+      "en": "Kebab in a bun"
+    }
+  },
+  "Friday": {
+    "Soep": {
+      "nl": "Kippencrèmesoep met balletjes",
+      "en": "Chicken cream soup and meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Scampibrochette met béarnaise, zuiderse puree en zongedroogde tomaatjes",
+      "en": "Prawn skewer with Béarnaise, Mediterranean mashed potatoes and sun-dried tomatoes"
+    },
+    "Suggestie menu ": {
+      "nl": "Avocado-burger met gegrilde groenten en aardappeltjes",
+      "en": "Avocado burger with grilled vegetables and potatoes"
+    },
+    "Snack": {
+      "nl": "Viandel en frietjes",
+      "en": "Viandel and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Martino",
+      "en": "Martino sandwich"
+    }
+  }
+}
