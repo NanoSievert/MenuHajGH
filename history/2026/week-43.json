@@ -1,0 +1,132 @@
+{
+  "Monday": {
+    "Soep": {
+      "nl": "Tomatensoep met balletjes",
+      "en": "Tomato soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Chinese noedels met rundvlees",
+      "en": "Chinese noodles with beef"
+    },
+    "Suggestie menu ": {
+      "nl": "Paëlla 🌿",
+      "en": "Paëlla 🌿"
+    },
+    "Snack": {
+      "nl": "Curryworst en frietjes",
+      "en": "Curry roll and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje tonijn 🌿",
+      "en": "Tuna sandwich 🌿"
+    }
+  },
+  "Tuesday": {
+    "Soep": {
+      "nl": "Groentebouillon 🌱",
+      "en": "Vegetables broth 🌱"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Rundsstoofvlees met slaatje van witloof en aardappelen of frietjes",
+      "en": "Beef stew with chicory salad and potatoes or fries"
+    },
+    "Suggestie menu ": {
+      "nl": "Groenteballetjes in tomatensaus en puree 🌿",
+      "en": "Vegetable balls in tomatos sauce and mashed potatoes🌿 "
+    },
+    "Snack": {
+      "nl": "Boulet en frietjes",
+      "en": "Meatball and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Club kip met mayonnaise, cocktail of currysaus",
+      "en": "Chicken sandwich with mayonnaise, cocktail or curry sauce"
+    }
+  },
+  "Wednesday": {
+    "Soep": {
+      "nl": "Kervelsoep met balletjes",
+      "en": "Chervil soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Varkenshaasje met champignonsaus, groentemix en puree",
+      "en": "Pork tenderloin with mushroom sauce, mixed vegetables and mashed potatoes"
+    },
+    "Suggestie menu ": {
+      "nl": "Griekse pasta met gebakken halloumi🌿 ",
+      "en": "Greek pasta with pan-fried halloumi 🌿"
+    },
+    "Snack": {
+      "nl": "Kipcorn en frietjes",
+      "en": "Chicken corn dog and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Kebab broodje",
+      "en": "Kebab in a bun"
+    }
+  },
+  "Thursday": {
+    "Soep": {
+      "nl": "Kippencrèmesoep met balletjes",
+      "en": "Chicken cream soup and meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Spaghetti Bolognaise",
+      "en": "Spaghetti Bolognese"
+    },
+    "Suggestie menu ": {
+      "nl": "Quinoa met feta, cherry tomaatjes en nuggets 🌿",
+      "en": "Quinoa with cherry tomatoes and nuggets🌿 "
+    },
+    "Snack": {
+      "nl": "Bitterballen en  frietjes",
+      "en": "Dutch beef croquettes and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Martino",
+      "en": "Martino sandwich"
+    }
+  },
+  "Friday": {
+    "Soep": {
+      "nl": "Groentensoep met vermicelli 🌿",
+      "en": "Vegetables soup with vermicelli🌿 "
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Gepaneerde vis met spinaziepuree ",
+      "en": "Breaded fish with spinach mashed potatoes"
+    },
+    "Suggestie menu ": {
+      "nl": "Gegrilde groenten met tofu en rijst🌱 ",
+      "en": "Grilled vegetables with tofu and rice🌱 "
+    },
+    "Snack": {
+      "nl": "Kipnuggets en frietjes",
+      "en": "Chicken nuggets and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje brie met rozijntjes, nootjes en honing ",
+      "en": "brie sandwich with raisins, nuts and honey🌿"
+    }
+  }
+}
