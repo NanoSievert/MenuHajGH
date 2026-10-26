@@ -1,0 +1,132 @@
+{
+  "Monday": {
+    "Soep": {
+      "nl": "Kippenbouillon met balletjes",
+      "en": "Chicken broth with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Kip kebab met toppings",
+      "en": "Chicken kebab with toppings"
+    },
+    "Suggestie menu ": {
+      "nl": "Bamischijf met rijst, wokgroenten en zoetzure saus 🌿",
+      "en": "Bami disk with rice, pan-fried vegetables and sour-sweet sauce🌿 "
+    },
+    "Snack": {
+      "nl": "Cervela en frietjes",
+      "en": "Saveloy and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje feta 🌿",
+      "en": "Feta sandwich 🌿"
+    }
+  },
+  "Tuesday": {
+    "Soep": {
+      "nl": "Groentebouillon 🌱",
+      "en": "Vegetables broth 🌱"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Ribbekens, koolsla en aardappelwedges",
+      "en": "BBQ ribs with coleslaw and wedges"
+    },
+    "Suggestie menu ": {
+      "nl": "Gevulde paprika met rauwkost🌿 ",
+      "en": "Stuffed bell pepper and crudités🌿 "
+    },
+    "Snack": {
+      "nl": "Mozzarella sticks en frietjes 🌿",
+      "en": "Mozzarella sticks and fries🌿 "
+    },
+    "Broodje van vandaag": {
+      "nl": "Martino",
+      "en": "Martino sandwich"
+    }
+  },
+  "Wednesday": {
+    "Soep": {
+      "nl": "Erwtensoep 🌱",
+      "en": "Split peas soup 🌱"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Kipfilet met pepersaus, gratin en groentemix",
+      "en": "Chicken breast with pepper sauce, gratin and mixed vegetables"
+    },
+    "Suggestie menu ": {
+      "nl": "Groentesticks met boontjes en puree 🌱 ",
+      "en": "Vegetable fingers with green beans and mashed potatoes 🌱   "
+    },
+    "Snack": {
+      "nl": "Vleeskroket en frietjes",
+      "en": "Beef croquette and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Italiaans broodje met kip, rode tapenade en parmezaanse kaas",
+      "en": "Italian sandwich with chicken, red tapenade, arugula and parmesano"
+    }
+  },
+  "Thursday": {
+    "Soep": {
+      "nl": "Preisoep 🌿",
+      "en": "Leek soup 🌿"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Halloween stoofpotje met kip, pompoen en denneappeltjes",
+      "en": "Halloween stew with chicken, pumpkin and potato pine cones"
+    },
+    "Suggestie menu ": {
+      "nl": "Groentelasagne 🌿",
+      "en": "Vegetable lasagna 🌿"
+    },
+    "Snack": {
+      "nl": "Party snacks en frietjes",
+      "en": "Party snacks and French fries"
+    },
+    "Broodje van de dag": {
+      "nl": "Kebab broodje",
+      "en": "Kebab in a bun"
+    }
+  },
+  "Friday": {
+    "Soep": {
+      "nl": "Tomatensoep met balletjes",
+      "en": "Tomato soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Menu van de chef",
+      "en": "Menu of the chef"
+    },
+    "Suggestie menu ": {
+      "nl": "Risotto met börek en feta 🌿",
+      "en": "Risotto with börek and feta🌿 "
+    },
+    "Snack": {
+      "nl": "Snack van de dag en frietjes",
+      "en": "Snack of the day and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Club kip met mayo, cocktail of currysaus",
+      "en": "Chicken sandwich with mayo, cocktail or curry sauce"
+    }
+  }
+}
