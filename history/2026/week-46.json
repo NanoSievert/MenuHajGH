@@ -1,0 +1,106 @@
+{
+  "Monday": {
+    "Soep": {
+      "nl": "Lentesoep met balletjes",
+      "en": "Spring soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Chili con carne met nacho's en toppings",
+      "en": "Chili con carne with nachos and toppings"
+    },
+    "Suggestie menu ": {
+      "nl": "Vidé met rauwkost en frietjes🌿 ",
+      "en": "Vol au vent with raw vegetables and fries🌿 "
+    },
+    "Snack": {
+      "nl": "Sito stick en frietjes",
+      "en": "Sito stick and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Caesar broodje met kip, parmezaanse kaas en rucola",
+      "en": "Caesar chicken sandwich with parmesan and arugula"
+    }
+  },
+  "Tuesday": {
+    "Soep": {
+      "nl": "Tomatensoep met fijne groentjes",
+      "en": "Tomato soup with julienne vegetables"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Stoofvlees met frietjes of aardappelen en rauwkost",
+      "en": "Beef stew with fries or potatoes and vegetable salad"
+    },
+    "Suggestie menu ": {
+      "nl": "Ravioli met tomaat, courgette en feta🌿",
+      "en": "Ravioli with tomatoes, zucchini and feta🌿 "
+    },
+    "Snack": {
+      "nl": "Boulet en frietjes",
+      "en": "Meatball and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Italiaans broodje met kip, rode tapenade en parmezaanse kaas",
+      "en": "Italian sandwich with chicken, red tapenade, arugula and parmesano"
+    }
+  },
+  "Thursday": {
+    "Soep": {
+      "nl": "Wortelsoep",
+      "en": "Carrot soup "
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Kipsaté met kruidige taboulé en naan",
+      "en": "Chicken satay with spicy taboulé and naan"
+    },
+    "Suggestie menu ": {
+      "nl": "Bicky burger met zoete aardappelfrietjes🌱",
+      "en": "Bicky burger en sweet potato chips 🌱"
+    },
+    "Snack": {
+      "nl": "Party snacks en frietjes",
+      "en": "Party snacks and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje kebab",
+      "en": "Kebab in a bun"
+    }
+  },
+  "Friday": {
+    "Soep": {
+      "nl": "Tomatensoep met balletjes",
+      "en": "Tomato soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Witloof met hesp en kaassaus met puree",
+      "en": "Chicory in ham and cheese sauce with mashed potatoes"
+    },
+    "Suggestie menu ": {
+      "nl": "Kapsalon met verschillende toppings 🌿",
+      "en": "Kapsalon with several toppings🌿 "
+    },
+    "Snack": {
+      "nl": "Curryworst en frietjes",
+      "en": "Curry roll and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje Brie met walnoten, rozijnen en rucola 🌿",
+      "en": "Brie sandwich with walnuts, raisins and aragula 🌿"
+    }
+  }
+}
