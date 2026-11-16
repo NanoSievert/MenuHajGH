@@ -1,0 +1,112 @@
+{
+  "Monday": {
+    "Soep": {
+      "nl": "Minestronesoep",
+      "en": "Minestrone soup"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Wok met kip en rijst",
+      "en": "Wok with chicken and rice"
+    },
+    "Suggestie menu ": {
+      "nl": "Macaroni kaassaus 🌿",
+      "en": "Mac and cheese 🌿"
+    },
+    "Snack": {
+      "nl": "Viandel en frietjes",
+      "en": "Viandel and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Zuiders broodje met proscuitto, mozarella en huisgemaakte tapenade",
+      "en": "Southern sandwich with proscuitto, mozarella and homemade tapenade"
+    }
+  },
+  "Wednesday": {
+    "Soep": {
+      "nl": "Pompoensoep",
+      "en": "Pumpkin soup"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Spaghetti Bolognaise",
+      "en": "Spaghetti Bolognese"
+    },
+    "Suggestie menu ": {
+      "nl": "Groenteballetjes met gebakken rijst, groentjes en labneh 🌱",
+      "en": "Vegetable balls with fried rice, vegetables and labneh🌱 "
+    },
+    "Snack": {
+      "nl": "Kaaskroketjes en frietjes 🌿",
+      "en": "Cheese croquettes and fries🌿"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje gerookte zalm en heks'nkaas",
+      "en": "Smoked salmon sandwich and heks'nkaas"
+    }
+  },
+  "Thursday": {
+    "Soep": {
+      "nl": "Kippenbouillon met balletjes",
+      "en": "Chicken broth with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Bicky fish burger met verse tartaar en frietjes",
+      "en": "Bicky fish burger with homemade tartar sauce and fries"
+    },
+    "Suggestie menu ": {
+      "nl": "Groentevingers met boontjes en puree",
+      "en": "Vegetable fingers wit green beans and mashed potatoes"
+    },
+    "Snack": {
+      "nl": "Boxstaaf en frietjes",
+      "en": "Box stick and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje kebab",
+      "en": "Kebab in a bun"
+    }
+  },
+  "Friday": {
+    "Soep": {
+      "nl": "Preisoep 🌿",
+      "en": "Leek soup 🌿"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Vidé met rauwkost en puree of kroketjes",
+      "en": "Vol au vent with raw vegetables and mashed potatoes or fries"
+    },
+    "Suggestie menu ": {
+      "nl": "Groentemoussaka 🌿",
+      "en": "Vegetable moussaka 🌿"
+    },
+    "Snack": {
+      "nl": "Curryworst en frietjes",
+      "en": "Curry roll and French fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje boerenomelet 🌿",
+      "en": "Farmer's omelet sandwich🌿 "
+    }
+  },
+  "Tuesday": {
+    "Broodje van vandaag": {
+      "nl": "Club kaas of hesp",
+      "en": "Club cheese or club ham "
+    }
+  }
+}
