@@ -1,0 +1,132 @@
+{
+  "Monday": {
+    "Soep": {
+      "nl": "Tomatensoep met balletjes",
+      "en": "Tomato soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Pasta all' Amatriciana met spek, parmezaan en verse basilicum",
+      "en": "Pasta all' Amatriciana with bacon, parmesano and fresh basil"
+    },
+    "Suggestie menu ": {
+      "nl": "Broccoli nuggets met rozemarijn aardappeltjes en rauwkost🌿 ",
+      "en": "Broccoli nuggets with rosemary  potatoes and fresh crudités🌿 "
+    },
+    "Snack": {
+      "nl": "Bitterballen en  frietjes",
+      "en": "Bitter balls and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Club spek",
+      "en": "Club bacon"
+    }
+  },
+  "Tuesday": {
+    "Soep": {
+      "nl": "Groentensoep met balletjes",
+      "en": "Vegetables soup with meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Loaded fries met kip en/of spek en toppings",
+      "en": "Loaded fries with chicken and/or bacon and toppings"
+    },
+    "Suggestie menu ": {
+      "nl": "Spinaziepuree met sea sticks 🌿",
+      "en": "Spinach mashed potatoes and sea sticks🌿 "
+    },
+    "Snack": {
+      "nl": "Mexicano en frietjes",
+      "en": "Mexicano and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Club boulet",
+      "en": "Meatball sandwich"
+    }
+  },
+  "Wednesday": {
+    "Soep": {
+      "nl": "Erwtensoep 🌱",
+      "en": "Split pea soup 🌱"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Thaise rode curry met kip, boontjes, munt en rijst",
+      "en": "Thai red curry with chicken, green beans, fresh mint and rice"
+    },
+    "Suggestie menu ": {
+      "nl": "Canneloni met ricotta en spinazie🌿 ",
+      "en": "Canneloni with ricotta cheese and spinach🌿 "
+    },
+    "Snack": {
+      "nl": "Party snacks en frietjes",
+      "en": "Party snacks and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje pulled chicken",
+      "en": "Pulled chicken sandwich"
+    }
+  },
+  "Thursday": {
+    "Soep": {
+      "nl": "Tomatensoep met vermicelli en balletjes",
+      "en": "Tomato soup with pasta and meatballs"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Vispannetje met puree en veldsla",
+      "en": "Fish stew with mashed potatoes and lettuce"
+    },
+    "Suggestie menu ": {
+      "nl": "Champignonragout met rauwkost en frietjes🌱 ",
+      "en": "Mushroom ragout with crudités and fries🌱 "
+    },
+    "Snack": {
+      "nl": "Cervela en frietjes",
+      "en": "Saveloy and fries"
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje brie met rucola, rozijntjes en honing 🌿",
+      "en": "Brie sandwich with arugula, raisins and honey 🌿"
+    }
+  },
+  "Friday": {
+    "Soep": {
+      "nl": "Groentebouillon 🌱",
+      "en": "Vegetable broth 🌱"
+    },
+    "Salade ": {
+      "nl": "Salad bar",
+      "en": "Salad bar"
+    },
+    "Lunch van de dag": {
+      "nl": "Balletjes in tomatensaus met puree of frietjes",
+      "en": "Meatballs in tomato sauce with mashed potatoes and French fries"
+    },
+    "Suggestie menu ": {
+      "nl": "Fusion burger met taboulé 🌱",
+      "en": "Fusion burger with tabouleh 🌱 "
+    },
+    "Snack": {
+      "nl": "Champignonkroket en frietjes 🌿",
+      "en": "Mushroom croquette and fries🌿 "
+    },
+    "Broodje van vandaag": {
+      "nl": "Broodje kebab",
+      "en": "Kebab in a bun"
+    }
+  }
+}
